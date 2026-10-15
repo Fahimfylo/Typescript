@@ -1,6 +1,6 @@
 # Typescript
 
-- Generics
+- Interface & Generics
 - Utility Types
 - Conditional Types
 - Type Narrowing
